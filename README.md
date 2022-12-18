@@ -21,7 +21,7 @@ Model Creation
 </p>
 
 
-## 4. Our Results
+## 4. Results
 
 | Model Name | No of videos | No of Frames | Accuracy |
 |------------|--------------|--------------|----------|
