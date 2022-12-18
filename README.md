@@ -32,7 +32,6 @@ Model Creation
 |model_91_acc_80_frames_final_data.pt | 6000 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
- -->
 ## Helpful links
 
  - https://ieeexplore.ieee.org/abstract/document/8639163/: Official PyTroch documentation about Dataset classes, Dataloaders and Samplers
