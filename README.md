@@ -14,7 +14,7 @@ Deepfake_detection_using_deep_learning
 ```
 Model Creation
    - This directory consists of the step by step process of creating and training a deepfake detection model using our approach.
-   - 
+
 ## 3. System Architecture
 <p align="center">
   <img src="https://github.com/ritvic/Deepfake-Detection-Using-Reccurent-Neural-Network/blob/main/github_assets/System%20Architecture.png" />
@@ -31,3 +31,8 @@ Model Creation
 |model_90_acc_60_frames_final_data.pt | 6000| 60 |90.59097 |
 |model_91_acc_80_frames_final_data.pt | 6000 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
+
+ -->
+## Helpful links
+
+ - https://ieeexplore.ieee.org/abstract/document/8639163/: Official PyTroch documentation about Dataset classes, Dataloaders and Samplers
